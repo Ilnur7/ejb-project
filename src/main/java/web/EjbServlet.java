@@ -14,7 +14,7 @@ public class EjbServlet extends HttpServlet {
     @EJB
     FileReaderEjb reader;
 
-    private static final String PATH = "/home/ilnur/Files/Learning/JavaFiles/JavaBell/Bell2019";
+    private static final String PATH = System.getProperty("user.dir");
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {

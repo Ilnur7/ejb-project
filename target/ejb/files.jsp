@@ -12,11 +12,6 @@
     <meta http-equiv="Content-Type">
     <title>Tree</title>
     <link rel="stylesheet" type="text/css" href="сss/style.css">
-    <%--<style>
-        li {
-            list-style-image: url(/images/contacts1.png);
-        }
-    </style>--%>
 </head>
 <body>
 ${result}

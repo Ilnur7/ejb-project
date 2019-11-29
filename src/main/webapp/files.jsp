@@ -11,7 +11,7 @@
 <head>
     <meta http-equiv="Content-Type">
     <title>Tree</title>
-    <link rel="stylesheet" type="text/css" href="сss/style.css">
+    <link rel="stylesheet" type="text/css" href="static/css/style.css">
 </head>
 <body>
 ${result}
